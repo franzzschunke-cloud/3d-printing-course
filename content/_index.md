@@ -2,7 +2,7 @@
 bookToc: false
 ---
 
-# Kurs: 3D-Druck und Konstruktion
+# Kurs: 3D-Druck unb Konstruktion
 
 Du bist technisch interessiert und willst Schülern die Freude am 3D-Druck und der Konstruktion eigener Objekte vermitteln? Dann bist Du hier genau richtig!
 
